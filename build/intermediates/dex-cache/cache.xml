@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-21281d3a2c24f05df500dae8bba730be92ad4cec.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-c0c891785e70d4a4006bb05d7e39c6dc821dedd0.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-50e2e788303f2584abff625ceaad8278bb4c8cb4.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-28820d34427b43c230a3aecf33e4a9918c10a6ec.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-c2f00a4ae0a6d5d2b2125f0c501e0a1609cc8df5.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-3c52a3ca9967abeaaa02e2a87b8933877a3277bb.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-25d48f0ebbfed329c9e6c939822fa83143c59ec4.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-d2a2f7075bb33488b40fcf0b41f19fb4b609b64b.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-6f6e46aa7a2fa8b5ca057213b7c701b021346c7d.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-79715d8431504c40a9fe7f62b9a4ef1909e0199c.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-260f213b2de09ef8add703a6d5156ca42edf454c.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-fca0489339c3242713db46f2ff624837280465b5.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-a44d318ca4d071b41494cf62587563968a421af0.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-3cc66abe39e5814eaa0bd312686a054622d71d21.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-c61ae7b59f2cbeb89a9d083526102312297f4182.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-871b06af330486b587dc06731655452a01e30c6d.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-9626d71d351e0252aad85d455bfba198255784cd.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-f8eb65a7dbaf298f12c3fd680adf84896adc1769.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-b1b766c48bc37ae622312d582b174d26734d11a9.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-f989c92dd628fabc0be765bdbcdcdacc6e76e253.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-8181142581a0d87b4f8fe640eb1f1a62a1b42430.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-0d66b4a6078553ca67e8dd5b5cb3f79c9823050d.jar" />
+    </item>
+    <item
+        jar="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/media/nazmul/Dev Work/Clin&apos;s App/BannerExample/app/build/intermediates/pre-dexed/debug/classes-82d5afbb43db684d2436405045f253cb36c9d911.jar" />
+    </item>
+
+</items>
