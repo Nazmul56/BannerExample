@@ -38,7 +38,7 @@ public class MyActivity extends ActionBarActivity {
         setContentView(R.layout.activity_my);
 
 
-
+        //HelloWorld
         // Gets the ad view defined in layout/ad_fragment.xml with ad unit ID set in
         // values/strings.xml.
         mAdView = (AdView) findViewById(R.id.ad_view);
